@@ -1,12 +1,12 @@
-Projeto GoBarber
+# Projeto GoBarber
 
-NodeJS
+# NodeJS
 
 Projeto em NODEJS para cadastro de barbeiro. Onde você conseguirá criar login com autenticação e inserção de imagem de perfil. 
 
 Neste projeto é utilizado as seguintes dependencias:
 
-#Lista
+# Lista
 
 - nodemon
 - sequelize-cli
@@ -22,7 +22,7 @@ Neste projeto é utilizado as seguintes dependencias:
 - sequelize
 - session-file-store
 
-#Execução
+# Execução
 1. Clone o projeto git clone https://github.com/brunoamil/gobarber.git
 2. Atualize o projeto yarn install
 3. Execute a base de dados com npx sequelize db:migrate
